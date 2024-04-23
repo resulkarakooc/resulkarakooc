@@ -12,7 +12,7 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=resulkarakooc">
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -99,11 +99,11 @@
 <hr/>
 <br/>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/resulkarakooc">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=resulkarkooc&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://github.com/resulkarakooc">
@@ -112,10 +112,11 @@
 </p>
 
 <a> 
-    <a href="https://github.com/resulkarakooc"><img alt="resul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/resulkarakooc"><img alt="resul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=resulkarakooc&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  
   <a href="https://github.com/resulkarakooc"><img alt="resulkarakoc's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=resulkarakooc&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=resulkarakooc&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Resul Karakoç's Graph](https://github-readme-activity-graph.vercel.app/graph?username=resulkarakooc&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
