@@ -53,7 +53,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ✌️ &emsp; A person only gets what he does. He will be rewarded for his efforts. In return, it will be paid in full. (Surah An-Najm 39-41) <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: resul.krkoc@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/resulkarakooc)
