@@ -92,6 +92,12 @@
 ## Top Open Source -
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resulkarakooc&repo=CodeByte&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/resulkarakooc/CodeByte)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resulkarakooc&repo=MvcStokTakip&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/resulkarakooc/MvcStokTakip)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resulkarakooc&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/resulkarakooc/portfolio)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resulkarakooc&repo=GameProject&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/resulkarakooc/GameProject)
+
 <p align="left">
   <a href="https://github.com/resulkarakooc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
