@@ -25,7 +25,7 @@
   </samp>
 </p>
 
-<p align="center">
+<p align="center"> 
  <a href="https://resulkarakooc.github.io/portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="resul" />
  </a>
